@@ -55,13 +55,6 @@ Durante a instalação do Windows, na tela que exige conexão com a internet:
 
 ---
 
-## 📁 Arquivos incluídos
-
-- `bypassnro.cmd` – Script de bypass automático
-- `README.md` – Este manual
-
----
-
 ## 🧠 Observações
 
 - Funciona em Windows 10 e 11 (versões até o momento).
